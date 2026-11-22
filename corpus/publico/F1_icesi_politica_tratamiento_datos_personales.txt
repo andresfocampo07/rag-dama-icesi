@@ -1,0 +1,234 @@
+Fuente: https://www.icesi.edu.co/politica-de-tratamiento-de-datos-personales/ (consultado 2026-11-16)
+
+Política de tratamiento de datos personales
+Rectoría
+Resolución No 112
+(21 de noviembre de 2025)
+“Por la cual se modifica parcialmente la Política de Protección de Datos Personales de la Universidad Icesi”
+1. Presentacion
+Con el propósito de destacar la importancia que tienen la privacidad y la seguridad de la información personal, la Universidad Icesi, entidad sin ánimo de lucro, creada bajo las leyes colombianas, con domicilio en Cali, en adelante la Universidad Icesi o La Universidad, pone a disposición de los aspirantes, estudiantes, graduados, docentes, empleados, clientes, proveedores, aliados y todos los demás involucrados con la Institución, en adelante los Usuarios o “Titular”, la presente Política de Tratamiento de Datos Personales.
+La presente Política establece los términos, condiciones, lineamientos y finalidades sobre las cuales la Universidad realiza la recolección, almacenamiento, uso, circulación y supresión de la información personal de todos los Usuarios, así como las condiciones de seguridad y confidencialidad de dicha información, y procedimientos establecidos para que los Usuarios de los datos o sus representantes puedan ejercer los derechos sobre las leyes de protección de Datos Personales.
+2. Ámbito de aplicación
+La presente Política aplica a todo tratamiento de datos personales realizado por la Universidad Icesi, en calidad de Responsable, respecto de la información recolectada en el desarrollo de sus funciones académicas, investigativas, administrativas, laborales, comerciales y de extensión universitaria, tanto en entornos físicos como digitales.
+Incluye, entre otros, los datos suministrados en procesos de admisión, matrícula, contratación, investigación, prestación de servicios, eventos institucionales, programas de educación continua, comercio electrónico, así como aquellos recolectados a través de sitios web, plataformas virtuales, aplicaciones móviles, redes sociales y sistemas de información institucionales.
+La Universidad Icesi reconoce que los datos personales pertenecen exclusivamente a sus titulares y, en consecuencia, su uso se limita a las finalidades legítimas, informadas y autorizadas conforme a lo previsto en la Ley 1581 de 2012, el Decreto 1074 de 2015 y las normas que las modifiquen o complementen.
+El tratamiento, se realizará bajo los principios de legalidad, finalidad, libertad, veracidad, transparencia, acceso restringido, seguridad y confidencialidad. Cada titular es responsable de la veracidad y actualización de la información suministrada, así como del uso adecuado de las credenciales o medios de autenticación que le sean asignados para el acceso a los sistemas de la Universidad.
+3. Identificación del responsable
+Nombre de la institución: Universidad Icesi.
+Domicilio y dirección: Calle 18 No. 122-135 Pance, Cali – Colombia.
+Correo electrónico: midatopersonal@icesi.edu.co
+Teléfono: +57 (2) 5552334 | Fax: +57 (2) 5551441
+4. Marco legal
+a. Constitución Política, artículo 15.
+b. Ley 1266 de 2008.
+c. Ley 1581 de 2012.
+d. Ley 1273 de 2009.
+e. Decretos Reglamentarios 1727 de 2009 y 2952 de 2010.
+f. Decretos Reglamentarios parcial No. 1377 de 2013 y 886 de 2014 Compilados en el DUR 1074 de 2015. Capítulo 25.
+g. Decreto 090 de 2018.
+h. Ley 2157 de 2021 por la cual se reforma la ley 1266 de 2008.
+i. Ley 2300 de 2023.
+j. Circulares Externas 001, 002 y 003 de 2024 emitidas por la SIC.
+k. Circulares Externas 002 emitida por la SIC.
+l. Resolución 56579 de 2025 que modifica el numeral 1.2.2. Capítulo 1 del Título V de la Circular Única de la SIC.
+m. Sentencias de la Corte Constitucional C-1011 de 2008 y C-748 del 2011.
+n. Normas, decretos y tratados internacionales.
+o. Políticas y reglamentos internos.
+5. Principios
+La Universidad velará por los siguientes principios específicos los cuales constituyen las reglas a seguir el Tratamiento de Datos Personales:
+a. Principio de legalidad en materia de datos personales: En el uso, captura, recolección y Tratamiento de Datos Personales, se dará aplicación a las disposiciones vigentes y aplicables que rigen el Tratamiento de Datos Personales y demás derechos fundamentales conexos.
+b. Principio de libertad: El uso, captura, recolección y Tratamiento de Datos Personales sólo puede llevarse a cabo con el consentimiento previo, expreso e informado del Titular. Los Datos Personales no podrán ser obtenidos o divulgados sin previa autorización, o en ausencia de mandato legal, estatutario, o judicial que releve el consentimiento.
+c. Principio de finalidad: El uso, captura, recolección y Tratamiento de Datos Personales a los que tenga acceso y sean acopiados y recogidos por La Universidad, estarán subordinados y atenderán una finalidad legítima, la cual debe ser informada al respectivo Titular de los Datos Personales.
+d. Principio de veracidad o calidad: La información sujeta a uso, captura, recolección y Tratamiento de Datos Personales debe ser veraz, completa, exacta, actualizada, comprobable y comprensible. Se prohíbe el Tratamiento de datos parciales, incompletos, fraccionados o que induzcan a error.
+e. Principio de transparencia: En el uso, captura, recolección y Tratamiento de Datos Personales debe garantizarse el derecho del Titular a obtener de La Universidad, en cualquier momento y sin restricciones, información acerca de la existencia de cualquier tipo de información o dato personal que sea de su interés o Titularidad.
+f. Principio de acceso y circulación restringida: Los Datos Personales, salvo la información pública, no podrán estar disponibles en Internet u otros medios de divulgación o comunicación masiva, salvo que el acceso sea técnicamente controlable para brindar un conocimiento restringido sólo a los Titulares o terceros autorizados. Para estos propósitos la obligación de La Universidad será de medio.
+g. Principio de seguridad: Los Datos Personales e información usada, capturada, recolectada y sujeta a Tratamiento por La Universidad, será objeto de protección en la medida en que los recursos técnicos y estándares mínimos así lo permitan, a través de la adopción de medidas tecnológicas de protección, protocolos, y todo tipo de medidas administrativas que sean necesarias para otorgar seguridad a los registros y repositorios electrónicos evitando su adulteración, modificación, pérdida, consulta, y en general en contra de cualquier uso o acceso no autorizado.
+h. Principio de confidencialidad: Todas y cada una de las personas que administran, manejen, actualicen o tengan acceso a informaciones de cualquier tipo que se encuentre en Bases o Bancos de Datos, se comprometen a conservar y mantener de manera estrictamente confidencial y no revelarla a terceros, todas las informaciones personales, comerciales, contables, técnicas o de cualquier otro tipo suministradas en la ejecución y ejercicio de sus funciones. Todas las personas que trabajen actualmente o sean vinculadas a futuro para tal efecto, en la administración y manejo de bases de datos, deberán suscribir un documento adicional u otrosí a su contrato laboral o de prestación de servicios para efectos de asegurar tal compromiso. Esta obligación persiste y se mantiene inclusive después de finalizada su relación con alguna de las labores que comprende el Tratamiento.
+6. Definiciones
+a. Autorización: Consentimiento previo, expreso e informado del Titular para llevar a cabo el Tratamiento de Datos Personales.
+b. Aviso de privacidad: Comunicación verbal o escrita generada por el responsable, dirigida al Titular para el Tratamiento de sus Datos Personales, mediante la cual se le informa acerca de la existencia de las políticas de Tratamiento de información que le serán aplicables, la forma de acceder a las mismas y las finalidades del Tratamiento que se pretende dar a los Datos Personales.
+c. Base de datos: Conjunto organizado de Datos Personales que sea objeto de Tratamiento.
+d. Causahabiente: Persona que ha sucedido a otra por causa del fallecimiento de ésta (heredero).
+e. Dato personal: Cualquier información vinculada o que pueda asociarse a una o varias personas naturales determinadas o determinables.
+f. Dato público: Es el dato que no sea semiprivado, privado o sensible. Son considerados datos públicos, entre otros, los datos relativos al estado civil de las personas, a su profesión u oficio y a su calidad de comerciante o de servidor público. Por su naturaleza, los datos públicos pueden estar contenidos, entre otros, en registros públicos, documentos públicos, gacetas y boletines oficiales y sentencias judiciales debidamente ejecutoriadas que no estén sometidas a reserva.
+g. Datos sensibles: Se entiende por datos sensibles aquellos que afectan la intimidad del Titular o cuyo uso indebido puede generar su discriminación, tales como aquellos que revelen el origen racial o étnico, la orientación política, las convicciones religiosas o filosóficas, la pertenencia a sindicatos, organizaciones sociales, de derechos humanos o que promueva intereses de cualquier partido político o que garanticen los derechos y garantías de partidos políticos de oposición, así como los datos relativos a la salud, a la vida sexual, y los datos biométricos.
+h. Encargado del Tratamiento: Persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros, realice el Tratamiento de Datos Personales por cuenta del responsable del Tratamiento.
+i. Responsable del Tratamiento: Persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros, decida sobre la base de datos y/o el Tratamiento de los datos.
+j. Titular: Persona natural cuyos Datos Personales sean objeto de Tratamiento.
+k. Transferencia: La transferencia de datos tiene lugar cuando el responsable y/o encargado del Tratamiento de Datos Personales, ubicado en Colombia, envía la información o los Datos Personales a un receptor, que a su vez es responsable del Tratamiento y se encuentra dentro o fuera del país.
+l. Transmisión: Tratamiento de Datos Personales que implica la comunicación de estos dentro o fuera del territorio de la República de Colombia cuando tenga por objeto la realización de un Tratamiento por el encargado por cuenta del responsable.
+m. Tratamiento: Cualquier operación o conjunto de operaciones sobre Datos Personales, tales como la recolección, almacenamiento, uso, circulación o supresión.
+n. Revocar: Dejar sin efecto la autorización previamente otorgada por el Titular de los datos personales para realizar el Tratamiento, almacenamiento y uso por parte del Responsable.
+o. Supresión: Hace referencia a la solicitud del Titular de los datos personales o sus causahabientes para que el Responsable o Encargado del Tratamiento elimine una o varias categorías de los datos previamente recolectados.
+7. Recolección de Datos y Autorización del Titular
+Para cumplir su misión como Institución de Educación Superior, la Universidad Icesi ha recolectado, recolecta y seguirá recolectando datos personales siempre que medie el consentimiento previo, expreso e informado del Titular, salvo en los casos exceptuados por la ley.
+Entre los datos personales que pueden ser objeto de tratamiento se incluyen, entre otros, , la siguiente información personal: nombre y apellido, NIT, fecha de nacimiento, género, dirección de correspondencia, dirección de correo electrónico, teléfono, número de documento de identificación, estudios realizados, profesión, ocupación, experiencia, publicaciones, premios, méritos, pasatiempos, intereses culturales (ej. musicales, deportivos), idiomas, régimen aplicable a IVA, y régimen tributario aplicable a ICA y los que por ley se estipulen como Datos Personales y sensibles
+La autorización del Titular no será necesaria cuando se trate de:
+Información requerida por una entidad pública o administrativa en ejercicio de sus funciones legales o por orden judicial.
+Datos de naturaleza pública.
+Casos de urgencia médica o sanitaria.
+Tratamiento de información autorizado por la ley para fines históricos, estadísticos o científicos.
+Datos relacionados con el Registro Civil de las Personas.
+En casos específicos y con la autorización expresa del Titular, la Universidad podrá recolectar y tratar datos sensibles. El suministro de datos sensibles es de carácter facultativo, y el Titular no está obligado a autorizar su tratamiento, salvo cuando sea necesario para salvaguardar el interés vital del Titular o de otra persona, dar cumplimiento a obligaciones legales o contractuales, prestar servicios de bienestar, acompañamiento o atención en salud, bajo estrictas medidas de confidencialidad.
+El Titular de los datos acepta expresamente que la Universidad almacene, procese y utilice la información personal recolectada, de forma total o parcial, para las finalidades descritas en esta Política y en la ley aplicable.
+Asimismo, conserva el derecho de solicitar prueba de la autorización otorgada y ejercer los derechos de conocimiento, actualización, rectificación, supresión o revocatoria del consentimiento, conforme a la normatividad vigente.
+8. Finalidad del Tratamiento de Datos
+Se requiere que la información personal de los Usuarios/titulares sea recolectada, almacenada, usada, circulada, compartida, procesada y/o se le de Tratamiento para las siguientes finalidades generales las cuales se complementarán con las finalidades especificas
+8.1. Finalidades generales
+FG-1. Cumplimiento de la Misión Educativa y Estatutaria: Desarrollar la legítima misión educativa, académica, investigativa y de extensión conforme a los estatutos y el carácter de Institución de Educación Superior.
+FG-2. Cumplimiento Legal y Regulatorio: Cumplir con todas las leyes aplicables al sector educativo, laboral, tributario, comercial, administrativo y de protección de datos personales, incluyendo, pero sin limitarse, a los requerimientos del Ministerio de Educación Nacional, autoridades locales, laborales, fiscales, RNBD, SIC y demás organismos de control.
+FG-3. Gestión Contractual y Operacional: Cumplir los compromisos contractuales adquiridos y administrar las relaciones con estudiantes, empleados, egresados, proveedores, aliados o terceros relacionados con sus actividades académicas, administrativas y de extensión universitaria.
+FG-4. Promoción de Investigación y Extensión: Fomentar y desarrollar procesos de investigación, innovación y transferencia de conocimiento (científico, tecnológico, social y cultural).
+FG-5. Seguridad y Resguardo del Campus: Preservar la seguridad física de los bienes y personas dentro del campus universitario mediante sistemas de videovigilancia y controles de acceso físico y/o electrónico.
+FG-6. Comunicación Institucional: Establecer contacto con los titulares mediante llamadas telefónicas, mensajes de texto, aplicaciones de mensajería, redes sociales, correos electrónicos y/o cualquier otro medio conocido o por conocer, para efectos de comunicaciones derivadas de todas las finalidades descritas, e informar sobre programas institucionales, académicos y de consultoría.
+FG-7. Transferencia y Transmisión de Datos: Compartir datos con terceros (nacionales o internacionales) con los cuales la Universidad realice alianzas, convenios o relaciones contractuales necesarias para el cumplimiento de su objeto social, bajo condiciones de confidencialidad y seguridad.
+FG-8. Garantía de Calidad y Veracidad de la Información: Actualizar, depurar y dar tratamiento a los datos personales, incluyendo aquellos compartidos por terceros previa firma de contratos de transferencia o transmisión, con el fin de garantizar la veracidad, calidad e integridad de la información en las bases de datos.
+FG-9. Gestión de Datos Sensibles (Bienestar y Salud): Recolectar y tratar datos sensibles para brindar servicios complementarios a la comunidad universitaria (acompañamiento académico, psicológico, médico o social) o para gestionar emergencias y urgencias médicas/sanitarias. Garantizando siempre su carácter facultativo y la aplicación de salvaguardas reforzadas de confidencialidad.
+FG-10. Promoción y Archivo Institucional: Capturar, administrar y divulgar en medios institucionales evidencias fotográficas o videográficas generadas en el marco de eventos, clases, proyectos, ferias o actividades universitarias, garantizando el respeto a los derechos de imagen de los participantes.
+FG-11. Desarrollar encuestas, estudios o mediciones relacionadas con la educación, el medio ambiente, la sostenibilidad o el desarrollo regional, a quienes voluntariamente deseen participar.
+8.2. Finalidades Especificas
+8.2.1. Aspirantes. La Universidad tratará los datos personales de los aspirantes de acuerdo a las finalidades generales y a las siguientes finalidades especificas:
+a. Gestión de Admisión: Gestionar los procesos de inscripción, admisión y participación en programas académicos, eventos institucionales y demás actividades de promoción desarrolladas por la Universidad.
+b. Acompañamiento: Gestionar la información del aspirante en las diferentes etapas del proceso de elección de un programa académico.
+c. Comunicación Promocional: Informar sobre ofertas académicas, oportunidades laborales, ferias, seminarios, becas o eventos académicos y de formación, a nivel local, nacional e internacional.
+d. Uso de Plataformas: Hacer uso de herramientas tecnológicas, formularios virtuales y plataformas digitales para procesos académicos y de comunicación.
+e. Estadística: Cumplir fines históricos, científicos, estadísticos y administrativos derivados de la gestión universitaria.
+f. Seguridad y Biometría: Garantizar la seguridad mediante control de acceso, videovigilancia y uso de datos biométricos.
+g. Análisis y Mejora: Elaborar análisis estadísticos, estudios de mercado y caracterización de perfiles para mejorar la oferta educativa y las estrategias de vinculación.
+8.2.2. Estudiantes. La Universidad tratará los datos personales de los estudiantes de acuerdo a las finalidades generales y a las siguientes finalidades especificas:
+a. Gestión Académica Integral: Gestionar procesos de inscripción, matrícula, desarrollo académico, movilidad, bienestar, graduación y expedición de títulos.
+b. Seguimiento y Estadística: Crear bases de datos para análisis internos, seguimiento académico y elaboración de estadísticas institucionales.
+c. Intercambio Académico: Realizar intercambios o transferencias de datos con instituciones nacionales o internacionales para el cumplimiento de actividades académicas, investigativas o de extensión.
+d. Seguridad y Biometría: Garantizar la seguridad mediante control de acceso, videovigilancia y uso de datos biométrico.
+e. Bienestar y Salud: Recopilar datos sensibles con fines de salud, bienestar psicológico y social, y compartirlos con entidades del sector salud o aseguradoras aliadas.
+f. Comunicación a Terceros: Compartir información con padres, acudientes o representantes legales cuando se trate de menores de edad y se acredite el vínculo correspondiente. Así mismo, se podrá compartir información cuando se trate de urgencias médicas o psicológicas.
+g. Comunicación: Mantener comunicación respecto a actividades académicas, administrativas, de bienestar, investigación, extensión, cultura y responsabilidad universitaria.
+h. Comunicación Promocional: Informar sobre ofertas académicas, oportunidades laborales, ferias, seminarios, becas o eventos académicos y de formación, a nivel local, nacional e internacional.
+i. Desarrollo académico: Desarrollar todas las acciones necesarias para la ejecución del vínculo académico con la Universidad.
+8.2.3. Graduados. La Universidad tratará los datos personales de sus egresados de acuerdo a las finalidades generales y a las siguientes finalidades especificas:
+a. Promoción y Desarrollo Profesional: Fomentar la participación en programas académicos, investigativos, culturales y sociales.
+b. Gestión de la Red de Egresados: Mantener contacto y comunicación para identificar intereses académicos/profesionales y realizar seguimiento a su desempeño laboral/formativo, con fines estadísticos o de fortalecimiento de redes. Además, poder compartir información sobre ofertas académicas y eventos.
+c. Intermediación Laboral: Gestionar bases de datos de egresados para proyección laboral, bolsa de empleo, redes profesionales, y difundir convocatorias de empleo, becas, emprendimiento y oportunidades de formación.
+d. Alianzas Comunitarias: Promover alianzas, proyectos y programas que fortalezcan la comunidad universitaria.
+e. Certificación: Expedir certificaciones académicas, disciplinarias o laborales cuando corresponda.
+8.2.4. Profesores y colaboradores. La Universidad tratará los datos personales de los profesores y empleados administrativos de acuerdo a las finalidades generales y a las siguientes finalidades especificas:
+a. Gestión Laboral y Prestacional: Gestionar procesos administrativos, financieros, académicos y laborales derivados de la vinculación, incluyendo nómina, prestaciones sociales, parafiscales y beneficios institucionales.
+b. Desarrollo y Evaluación: Coordinar procesos de formación, capacitación, desarrollo profesoral y evaluación del desempeño.
+c. Comunicación Profesional: Publicar perfiles académicos, investigativos o profesionales en medios institucionales y redes académicas.
+d. Riesgos y Bienestar: Recolectar datos sensibles para trámites de salud ocupacional, incapacidades, riesgos laborales y bienestar universitario.
+e. Cumplimiento Regulatorio: Reportar información requerida por autoridades competentes o entidades reguladoras.
+f. Seguridad: Garantizar la seguridad física y digital, incluyendo el uso de datos biométricos, control de acceso y videovigilancia.
+g. Certificaciones: Expedir certificaciones laborales y gestionar todos los procesos relacionados con la relación laboral o académica.
+h. Debida Diligencia: Verificar antecedentes financieros, disciplinarios, judiciales y de experiencia, así como cumplir con normativas de prevención de lavado de activos y financiación del terrorismo.
+8.2.5. Contratistas. La Universidad tratará los datos personales de contratistas de acuerdo a las finalidades generales y a las siguientes finalidades especificas:
+a. Ejecución Contractual: Cumplir las obligaciones derivadas de los contratos celebrados, desarrollar procesos de selección, evaluación, seguimiento y ejecución contractual.
+b. Debida Diligencia: Verificar antecedentes comerciales, financieros, disciplinarios, judiciales y de experiencia, así como cumplir con normativas de prevención de lavado de activos y financiación del terrorismo.
+c. Gestión de Riesgos: Administrar programas de salud ocupacional y riesgos laborales.
+d. Relacionamiento con Terceros: Compartir información con auditores, aseguradoras o entidades certificadora y terceros nacionales o internacionales de acuerdo al desarrollo del contrato.
+e. Debida Diligencia: Verificar antecedentes financieros, disciplinarios, judiciales y de experiencia, así como cumplir con normativas de prevención de lavado de activos y financiación del terrorismo.
+8.2.6. Proveedores, Clientes, Donantes y demás terceros. La Universidad tratará los datos personales de proveedores y clientes de acuerdo a las finalidades generales y a las siguientes finalidades especificas:
+a. Administración en Bases de Datos: Gestionar el registro, creación y administración en las bases de datos institucionales.
+b. Gestión Comercial y Financiera: Cumplir y hacer seguimiento a los compromisos derivados de contratos o acuerdos comerciales, gestionar pagos, pólizas y obligaciones contractuales.
+c. Verificación y Control: Verificar antecedentes, referencias y cumplimiento de requisitos legales, técnicos y financieros.
+d. Evaluación y Auditoría: Evaluar la calidad de los productos o servicios prestados y realizar procesos de auditoría, control, certificación y vigilancia de calidad.
+8.2.7. Gestión de Datos – Centro de Atención Psicosocial – CAPSI. Cuando la Universidad preste servicios de salud, se recolectarán datos personales de acuerdo a las finalidades generales y a las siguientes finalidades especificas
+a. Atención Psicológica: Ofrecer un servicio profesional de atención, orientación e intervención psicológica a poblaciones económica y socialmente vulnerables.
+b. Garantizar: Garantizar derechos y deberes de los usuarios.
+c. Gestión de Historias clínicas: Recolectar, registrar, almacenar, custodiar, organizar y actualizar los datos personales y sensibles (salud física, mental y antecedentes) del usuario en las historias psicológicas del CAPsi, en concordancia con la TRD institucional (código 511), la normatividad nacional y los requisitos del proceso de habilitación como IPS.
+d. Investigación: Tratar los datos recolectados con fines académicos resguardando la identidad como participante y tomando los recaudos necesarios para garantizar la confidencialidad de los datos personales y del desempeño, tal como se menciona en el artículo 29 de la ley 1090 del 2006.
+8.2.8. Gestión de Datos de Historias Clínicas y de Salud. Cuando la Universidad preste servicios de salud, se recolectarán datos personales de acuerdo a las finalidades generales y a las siguientes finalidades especificas:
+a. Atención: Atender necesidades básicas en salud, orientación y educación sanitaria.
+b. Cumplimiento: Garantizar derechos y deberes de los usuarios.
+c. Gestión: Implementar y gestionar programas de medicina preventiva, bienestar físico y psicológico.
+8.2.9. Gestión de Riesgos, Emergencias y Urgencias Médicas. La Universidad podrá tratar datos personales para la gestión de emergencias, urgencias médicas o sanitarias, con el fin de proteger la integridad física de las personas, garantizando la aplicación de medidas de seguridad, restricción de acceso y uso responsable de datos sensibles relacionados con la salud.
+8.2.10. Gestión de Plataformas Web y Aplicaciones Tecnológicas. Los datos personales recolectados a través de sitios web, sistemas de información, aplicaciones y software institucionales serán tratados conforme a la normativa vigente, y de acuerdo a las finalidades generales y a las siguientes finalidades especificas:
+a. Acceso: Brindar acceso y funcionalidad a plataformas digitales.
+b. Registro: Registrar información necesaria (identificación, IP, navegador, contraseñas).
+c. Personalización: Personalizar la experiencia del usuario y mejorar los servicios.
+d. Gestión de cookies: Gestionar cookies, etiquetas digitales y análisis de tráfico conforme a las políticas de privacidad y protección de datos.
+8.2.11. Gestión de Datos Biométricos, Imágenes y Video. La Universidad podrá recolectar y tratar datos biométricos (fotografía, voz, huella, video, reconocimiento facial) de acuerdo a las finalidades generales y a las siguientes finalidades especificas:
+a. Preservación de la seguridad: Con el fin de garantizar la seguridad de las personas y los bienes en nuestras instalaciones físicas, utilizamos sistemas de videovigilancia para la captura de imágenes.
+b. Documentación institucional: También capturamos, gestionamos y divulgamos evidencias fotográficas y videográficas de eventos y actividades realizados por la Universidad Icesi. Estas imágenes pueden ser compartidas en la página web, redes sociales y otros medios institucionales.
+c. Difusión: Difundir material institucional, respetando la pertinencia y proporcionalidad del uso de la imagen.
+8.2.12. Usuarios del Consultorio Jurídico y del Centro de Conciliación. La Universidad tratará los datos personales de acuerdo a las finalidades generales y a las siguientes finalidades especificas:
+a. Prestación del Servicio: Recibir, registrar, almacenar, custodiar y procesar la información y documentación aportada por el usuario o recaudada por el Consultorio Jurídico y/o el Centro de Conciliación, incluyendo datos de identificación, contacto, socioeconómicos, familiares, académicos, laborales, financieros, patrimoniales, de salud, judiciales y cualquier otro necesario para la adecuada prestación del servicio, de conformidad con la Ley 1581 de 2012, el Decreto 1377 de 2013, la Ley 2113 de 2021 y la Ley 2220 de 2022.
+b. Diagnóstico y Evaluación: Realizar entrevistas de diagnóstico, aplicar instrumentos de recolección de información y verificar antecedentes, con el fin de evaluar la procedencia, pertinencia y viabilidad de la asesoría jurídica, representación judicial, acompañamiento extrajudicial o trámite conciliatorio.
+c. Gestión de Actuaciones Procesales: Gestionar las actuaciones derivadas de la asesoría, representación judicial o extrajudicial y conciliación, incluyendo la elaboración, radicación y seguimiento de demandas, contestaciones, memoriales, recursos, solicitudes, actas, acuerdos, constancias, citaciones y demás actos procesales o administrativos requeridos por las autoridades competentes.
+d. Desarrollo de Audiencias: Programar, coordinar y desarrollar audiencias de conciliación, garantizando la citación oportuna de las partes, el registro y archivo de las actuaciones, y la expedición de actas o constancias conforme a la normatividad aplicable.
+e. Comunicación: Mantener comunicación activa y trazable con el usuario, las partes convocadas y demás intervinientes, a través de los canales autorizados (presenciales, telefónicos, electrónicos, postales u otros medios admitidos por la ley), para informar avances, realizar requerimientos, coordinar actuaciones, notificar resultados y emitir recordatorios o alertas procesales o de trámite.
+f. Uso de datos biométricos: Capturar, almacenar y, en su caso, transmitir datos biométricos (fotografías, grabaciones de voz y/o video, huellas u otros), así como registros audiovisuales de reuniones, audiencias, diligencias o actuaciones, con fines de identificación, control de asistencia, respaldo probatorio, archivo documental y, cuando sea requerido, para atender trámites o solicitudes de asesoría que demanden la remisión de tales registros a entidades administrativas o judiciales, cumpliendo en todo momento con los requisitos legales aplicables al tratamiento de datos sensibles.
+g. Archivo y Retención: Archivar, conservar y, cuando sea procedente, depurar o suprimir expedientes físicos y/o digitales de los casos atendidos, de acuerdo con la normatividad vigente en materia de retención documental, archivo judicial y conservación de expedientes de conciliación, garantizando la trazabilidad, integridad y confidencialidad de la información.
+h. Transferencia y/o transmisión: La transferencia y/o transmisión de mis datos a autoridades judiciales, administrativas o de control, así como a terceros con los cuales la Universidad Icesi tenga alianzas, convenios o acuerdos para el desarrollo de su objeto social, en especial aquellas relacionadas con la ejecución de actividades realizadas a través del Consultorio Jurídico de la Facultad de Derecho y su Centro de Conciliación, quienes podrán realizar el tratamiento para cumplir funciones relacionadas con su objeto social o actividades ejecutadas, cumpliendo las condiciones aplicables para la transmisión y transferencia, incluida la internacional, cuando aplique.
+9. Derechos del Titular de la información ⁱⁱⁱ
+El Titular de los datos personales tiene los siguientes derechos:
+a. Conocer, actualizar y rectificar sus datos personales frente a la Universidad Icesi. Este derecho se podrá ejercer, entre otros frente a datos parciales, inexactos, incompletos, fraccionados, que induzcan a error, o aquellos cuyo Tratamiento esté expresamente prohibido o no haya sido autorizado.
+b. Solicitar prueba de la autorización otorgada a La Universidad salvo cuando expresamente se exceptúe como requisito para el Tratamiento, de conformidad con lo previsto en el artículo 10 de la ley 1581 de 2012.
+c. Ser informado por La Universidad, previa solicitud, respecto del uso que le ha dado a sus datos personales.
+d. Presentar ante la Superintendencia de Industria y Comercio quejas por infracciones a lo dispuesto en la ley 1581 de 2012 y las demás normas que la modifiquen, adicionen o complementen.
+e. Revocar la autorización y/o solicitar la supresión del dato cuando en el Tratamiento no se respeten los principios, derechos y garantías constitucionales y legales. La revocatoria y/o supresión procederá cuando la Superintendencia de Industria y Comercio haya determinado que en el Tratamiento La Universidad haya incurrido en conductas contrarias a la ley 1581 de 2012 y a la Constitución.
+f. Acceder en forma gratuita a sus datos personales que hayan sido objeto de Tratamiento.
+10. Derechos de los Niños, Niñas y Adolescentes Menores de 18 Años
+Eventualmente, la Universidad Icesi podrá requerir y tratar Datos Personales de niños, niñas y adolescentes menores de 18 años, por ejemplo, en procesos de inscripción, matrícula, participación en programas académicos, culturales o deportivos, cursos vacacionales o actividades de bienestar institucional. La Universidad velará por el uso adecuado de los Datos Personales de los niños, niñas y adolescentes menores de 18 años, siempre y cuando dicho tratamiento:
+a. Responda al interés superior del niño, niña o adolescente; y
+b. Asegure el respeto pleno de sus derechos fundamentales.
+La Universidad limitará la recolección de datos personales de menores a la información estrictamente necesaria para el desarrollo de las finalidades legítimas y previamente informadas, y aplicará medidas técnicas, administrativas y jurídicas reforzadas para garantizar su confidencialidad y seguridad.
+En ningún caso la Universidad solicitará datos sensibles de menores, salvo cuando sean indispensables para proteger su bienestar físico o emocional, y siempre con las debidas salvaguardas de confidencialidad y consentimiento del representante legal.
+11. Deberes de la Universidad como responsable del Tratamiento de Datos Personales
+La Universidad, cuando actúe como responsable del Tratamiento de Datos Personales, cumplirá con los siguientes deberes:
+a. Solicitar y conservar, copia de la respectiva autorización otorgada por el Titular.
+b. Informar debidamente al Titular sobre la finalidad de la recolección y los derechos que le asisten por virtud de la autorización otorgada.
+c. Conservar la información bajo las condiciones de seguridad necesarias para impedir su adulteración, pérdida, consulta, uso o acceso no autorizado o fraudulento.
+d. Exigir al Encargado del Tratamiento en todo momento, el respeto a las condiciones de seguridad y privacidad de la información del Titular.
+e. Tramitar las peticiones de los Titulares de acuerdo con el procedimiento de Tratamiento de datos personales establecido por La Universidad.
+f. Informar a la autoridad de protección de datos cuando se presenten violaciones a los códigos de seguridad y existan riesgos en la administración de la información de los Titulares.
+g. La Universidad aportará a la Superintendencia de Industria y Comercio el registro de las bases de datos sujetas a Tratamiento.
+11. Transferencia y transmisión internacional de Datos Personales por parte de la Universidad
+La Universidad, cuando actúe como responsable del Tratamiento de Datos Personales, cumplirá con los siguientes deberes:
+a. Solicitar y conservar, copia de la respectiva autorización otorgada por el Titular.
+b. Informar debidamente al Titular sobre la finalidad de la recolección y los derechos que le asisten por virtud de la autorización otorgada.
+c. Conservar la información bajo las condiciones de seguridad necesarias para impedir su adulteración, pérdida, consulta, uso o acceso no autorizado o fraudulento.
+d. Exigir al Encargado del Tratamiento en todo momento, el respeto a las condiciones de seguridad y privacidad de la información del Titular.
+e. Tramitar las peticiones de los Titulares de acuerdo con el procedimiento de Tratamiento de datos personales establecido por La Universidad.
+f. Informar a la autoridad de protección de datos cuando se presenten violaciones a los códigos de seguridad y existan riesgos en la administración de la información de los Titulares.
+La Universidad aportará a la Superintendencia de Industria y Comercio el registro de las bases de datos sujetas a Tratamiento.
+12. Transferencia y transmisión internacional de Datos Personales por parte de la Universidad
+Dependiendo de la naturaleza de las relaciones permanentes u ocasionales que cualquier Titular de Datos Personales pueda tener para con La Universidad, la totalidad de su información puede ser transferida al exterior, sujeto a los requerimientos legales aplicables. En línea con lo descrito, con la aceptación de la presente política el Titular autoriza expresamente para transferir Información Personal. La información será transferida, para todas las relaciones que puedan establecerse con La Universidad, de conformidad con las finalidades descritas en el numeral 7 de la presente Política.
+La Universidad, tomará las medidas necesarias para que esos terceros conozcan y se comprometan a observar esta Política, bajo el entendido de que la información personal que reciban únicamente podrá ser utilizada para asuntos directamente relacionados con La Universidad, y no podrá ser usada o destinada para propósito o fin diferente.
+13. Procedimiento para que los Titulares de la información puedan ejercer los derechos a conocer, actualizar, rectificar, suprimir información y/o revocar la autorización
+La Universidad como institución y en los términos establecidos en la normatividad vigente y las distintas dependencias tanto académicas como administrativas actuarán como responsables del Tratamiento de Datos Personales.
+La Universidad designa al Analista de protección de datos adscrito a la Secretaría General, como la persona que recibirá, procesará y canalizará las distintas solicitudes que se reciban, y las hará llegar a las respectivas dependencias, quienes deberán dar trámite a las solicitudes de los Titulares, en los términos, plazos y condiciones establecidas por la normatividad vigente, para el ejercicio de los derechos de acceso, consulta, rectificación, actualización, supresión y revocatoria.
+Para la atención de solicitudes como acceso, consulta, rectificación, actualización de datos personales, supresión de información y revocatoria de la autorización; los Titulares de la información o sus representantes podrán manifestarlas diligenciando el formulario de solicitud para el Tratamiento de Datos Personales, en el sitio web www.icesi.edu.co/proteccion-datos/ o a través de los métodos habilitados por La Universidad, los cuales serán informados en el aviso de privacidad y se pondrán a disposición de los interesados en la página web. Las solicitudes serán atendidas en orden cronológico de recibo, y en los plazos de ley.
+Las solicitudes de los Titulares dirigidas a la Universidad Icesi deben contener como mínimo:
+a. Nombres y apellidos completos
+b. Tipo y número de identificación
+c. Correo electrónico
+d. La descripción de los hechos que dan lugar a la solicitud
+e. Adjuntar los soportes que se quiera hacer valer
+En todo caso y en cualquier momento, La Universidad podrá solicitar información adicional al Titular para dar trámite a la respectiva solicitud.
+a. Consultas
+Los Titulares o sus causahabientes podrán consultar la información personal del Titular que repose en La Universidad, quien suministrará toda la información contenida en el registro individual o que esté vinculada con la identificación del Titular.
+Las consultas serán atendidas en un término máximo de diez (10) días hábiles contados a partir de la fecha de su recibo. Cuando no fuere posible atender la consulta dentro de dicho término, se informará al interesado antes del vencimiento de los diez (10) días, expresando los motivos de la demora y señalando la fecha en que se atenderá su consulta, la cual en ningún caso podrá superar los cinco (5) días hábiles siguientes al vencimiento del primer plazo.
+b. Reclamos
+El Titular o sus causahabientes que consideren que la información contenida en una base de datos debe ser objeto de corrección, actualización o supresión, o cuando adviertan el presunto incumplimiento de cualquiera de los deberes contenidos en la ley, podrán presentar un reclamo ante La Universidad, el cual será tramitado bajo las siguientes reglas:
+El reclamo del Titular se formulará mediante solicitud dirigida a La Universidad, con la identificación del Titular, la descripción de los hechos que dan lugar al reclamo, la dirección, y acompañando los documentos que se quiera hacer valer. Si el reclamo resulta incompleto, se requerirá al interesado dentro de los cinco (5) días siguientes a la recepción del reclamo para que subsane las fallas. Transcurridos dos (2) meses desde la fecha de requerimiento, sin que el solicitante presente la información requerida, se entenderá que ha desistido del reclamo. En caso de que quien reciba el reclamo no sea competente para resolverlo, dará traslado a quien corresponda en un término máximo de dos (2) días hábiles e informará de la situación al interesado.
+Una vez recibido el reclamo completo, éste se catalogará con la etiqueta “reclamo en trámite” y el motivo del mismo, en un término no mayor a dos (2) días hábiles. Dicha etiqueta se mantendrá hasta que el reclamo sea decidido.
+El término máximo para atender el reclamo será de quince (15) días hábiles contados a partir del día siguiente a la fecha de su recibo. Cuando no fuere posible atender el reclamo dentro de dicho término, se informará al interesado los motivos de la demora y la fecha en que se atenderá su reclamo, la cual en ningún caso podrá superar los ocho (8) días hábiles siguientes al vencimiento del primer término.
+c. Petición de actualización y/o rectificación
+La Universidad rectificará y actualizará, a solicitud del Titular, la información de éste que resulte ser incompleta o inexacta, de conformidad con el procedimiento y los términos antes señalados, para lo cual el Titular deberá identificarse con su cédula, nombres y apellidos completos para dirigir la solicitud, indicando la actualización y/o rectificación a realizar y aportará la documentación que sustente su petición.
+e. Petición de revocación de autorización y/o supresión de datos
+El Titular de los Datos Personales tiene el derecho de solicitar a La Universidad la supresión (eliminación) de sus datos personales en cualquiera de los siguientes eventos:
+Considere que los mismos no están siendo tratados conforme a los principios, deberes y obligaciones previstas en la normatividad vigente.
+Hayan dejado de ser necesarios o pertinentes para la finalidad para la cual fueron recabados.
+Se haya superado el periodo necesario para el cumplimiento de los fines para los que fueron recabados
+Esta supresión implica la eliminación total o parcial de la información personal de acuerdo con lo solicitado por el Titular en los registros, archivos, bases de datos o Tratamientos realizados por La Universidad. Sin embargo, este derecho del Titular no es absoluto y en consecuencia La Universidad podrá negar el ejercicio del mismo cuando:
+El Titular tenga un deber legal o contractual de permanecer en la base de datos.
+La eliminación de datos obstaculice actuaciones judiciales o administrativas vinculadas a obligaciones fiscales, la investigación y persecución de delitos o la actualización de sanciones administrativas.
+Los datos sean necesarios para proteger los intereses jurídicamente tutelados del Titular; para realizar una acción en función del interés público, o para cumplir con una obligación legalmente adquirida por el Titular.
+14. Seguridad y Confidencialidad
+Para garantizar la mejor protección de privacidad y confidencialidad de la información, La Universidad toma las medidas necesarias para tal fin. Por tanto, cuenta con funcionarios competentes, debidamente capacitados y facultados para el Tratamiento de la información, y la adecuada tecnología que soporta estos procesos. Estas medidas tecnológicas sumadas a la seguridad física que protege el campus universitario brindan protección razonable según el estado de la ciencia y el presupuesto anual, pero no son infalibles. Cualquier violación a la confidencialidad o atentado contra la misma que detecte La Universidad será reportada de manera inmediata a las autoridades competentes.
+15. Normas de Excepción
+El Rector podrá establecer, mediante resolución motivada, normas de excepción a lo dispuesto en la presente política. Tales normas tendrán validez durante el semestre académico en que se expiden y deberán ser informadas a la Junta Directiva.
+16. Entrada en vigencia de la política y periodo de vigencia de las bases de datos
+La Universidad Icesi conservará la información de cada usuario durante todo el tiempo en que ésta se requiera dentro de los fines descritos en esta política, a menos que medie solicitud de supresión del interesado. El tiempo de retención de los documentos con información personal se sujetará al Programa de Gestión Documental de la Universidad.
+Infringir la presente política puede llevar a sanciones de acuerdo con los reglamentos vigentes. También podrán ser aplicables las sanciones que establezca Rectoría mediante resolución, con el fin de garantizar el cumplimiento de la ley y seguridad en los datos de los Titulares.
+La Universidad Icesi se reserva el derecho de modificar esta Política en cualquier momento, sin previo aviso y a discreción de La Universidad. Cualquier cambio será informado y publicado oportunamente en www.icesi.edu.co

@@ -1,0 +1,14 @@
+# Corpus con licencia restringida o documentos internos: solo índice local
+corpus/restringido/*
+!corpus/restringido/README.md
+corpus/interno/*
+!corpus/interno/README.md
+
+# Base vectorial local de Chroma y caché del juez de RAGAS
+chroma_db/
+eval/.cache_ragas/
+
+# Python
+__pycache__/
+.venv/
+.env

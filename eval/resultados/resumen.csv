@@ -1,0 +1,4 @@
+﻿etiqueta,fecha,k,min_dama,modelo_llm,modelo_juez,modelo_embeddings,tam_fragmento,muestra_ragas,k_precision,paralelo,n_preguntas,n_en_alcance,n_fuera_alcance,hit_rate_at_k,hit_rate_at_3,mrr,tasa_citas_validas,falsa_abstencion,abstencion_correcta_fuera_alcance,segundos_promedio_respuesta,n_evaluadas_ragas,faithfulness,answer_relevancy,context_precision,context_recall,ragas_fallos
+prueba,2026-11-16 21:38,8,2,qwen2.5:7b,qwen2.5:7b,bge-m3,1000,20,5,1,5,5,0,0.8,0.2,0.1524,1.0,0.0,,27.346,5,0.7692,0.862,0.84,1.0,0
+piloto,2026-11-16 21:49,8,2,qwen2.5:7b,qwen2.5:7b,bge-m3,1000,20,5,1,6,5,1,1.0,1.0,1.0,0.8,0.0,1.0,25.6217,5,0.9,0.8291,0.9833,0.8,0
+piloto_sin_dama,2026-11-16 21:57,8,0,qwen2.5:7b,qwen2.5:7b,bge-m3,1000,20,5,1,6,5,1,1.0,1.0,1.0,0.8,0.0,1.0,26.2567,0,,,,,0

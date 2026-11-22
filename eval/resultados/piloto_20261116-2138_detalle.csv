@@ -1,0 +1,31 @@
+﻿id,categoria,tipo,pregunta,respuesta,fuentes_esperadas,ids_recuperados,hit_at_k,hit_at_3,rr,cita_valida,abstencion,abstencion_correcta,falsa_abstencion,faithfulness,answer_relevancy,context_precision,context_recall,errores_ragas,segundos
+P21,DAMA,en_alcance,¿Cuáles son las metas de la bodega de datos e inteligencia de negocios en DAMA?,"Las metas de la bodega de datos e inteligencia de negocios en DAMA-DMBOK2 son:
+
+- Construir y mantener un sistema de datos con los requisitos técnicos y de negocio necesarios para proporcionar datos integrados que apoyen las funciones operativas, la cumplimiento y la inteligencia de negocios [A2_10].
+
+- Crear insights para apoyar y habilitar el análisis de negocio y la toma de decisiones efectivas [A2_10].
+
+Estas metas se enfocan en el desarrollo y gestión de un sistema de datos integrado que respalde a los trabajadores de conocimiento involucrados en el informe, la consulta y el análisis [A2_10].",A2_10,A2_10;A2_10;A2_10;A2_03;D2;A2_07;A2_10;A2_05,1,1,1.0,1,0,,0,0.5,0.7938,1.0,1.0,,25.25
+P25,MinTIC,en_alcance,"Según la guía de gobierno de datos de MinTIC, ¿qué principios de DAMA son la base de un buen gobierno de datos?","Según la guía de gobierno de datos de MinTIC [B1, p. 6], los principios de DAMA que forman la base de un buen gobierno de datos son:
+
+- Liderazgo y estrategia: El éxito del gobierno de datos comienza con un liderazgo visionario y comprometido. Las actividades de gestión de datos se guían por una estrategia de datos que, a su vez, está impulsada por la estrategia de la entidad.
+
+- Orientación: El gobierno de datos es un programa y, como tal, debe regir las decisiones de TI relacionadas con los datos al igual que las interacciones de la organización con los datos.",B1,B1;D2;D2;D6;B1;D2;A2_00;A2_02,1,1,1.0,1,0,,0,1.0,0.7663,0.9167,0.5,,27.01
+P32,DANE,en_alcance,¿Por qué son importantes los metadatos en los registros administrativos según el DANE?,"Según el DANE, los metadatos son importantes en los registros administrativos por varias razones:
+
+- Facilitan la comprensión detallada de los métodos de obtención, las variables, la cobertura y otros aspectos que dan sentido a los datos (B7b, p. 4).
+
+- Permiten evaluar la calidad de los datos para su uso en la producción de estadísticas (B7b, p. 7).
+
+- Facilitan el acceso, uso e interpretación de los registros administrativos (B7b, p. 4).
+
+- Permiten documentar y publicar las características de los registros administrativos de manera que se facilite su posterior uso (B7b, p. 7).
+
+- Aseguran la estandarización y la comparabilidad de la información estadística (B7b, p. 3).",B7b;B7a,B7b;B7b;B7b;B7b;B7b;B7b;A2_11;A2_11,1,1,1.0,0,0,,0,1.0,0.9124,1.0,1.0,,28.45
+P37,Normativa,en_alcance,¿Qué información mínima debe tener una política de tratamiento de datos según el Decreto 1377 de 2013?,"Según el Decreto 1377 de 2013 [C2, p. 5], una política de tratamiento de datos debe incluir la siguiente información mínima:
+
+- Nombre o razón social, domicilio, dirección, correo electrónico y teléfono del Responsable [C2, p. 5].
+- Tratamiento al cual serán sometidos los datos y finalidad del mismo cuando esta no se haya informado mediante el aviso de privacidad [C2, p. 5].
+- Derechos que le asisten como Titular [C2, p. 5].",C2,C2;C2;C2;C2;C2;C2;A2_01;A2_01,1,1,1.0,1,0,,0,1.0,0.8783,1.0,0.5,,25.94
+P45,Icesi,en_alcance,¿En cuánto tiempo responde Icesi una consulta sobre datos personales?,"Según la información proporcionada en el fragmento [F1], la Universidad Icesi responde una consulta sobre datos personales en un término máximo de diez (10) días hábiles contados a partir de la fecha de su recibo. Si no es posible atender la consulta dentro de este plazo, se informará al interesado antes del vencimiento de los diez (10) días, indicando los motivos de la demora y la fecha en que se atenderá la consulta, la cual en ningún caso podrá superar los cinco (5) días hábiles siguientes al vencimiento del primer plazo. [F1]",F1,F1;F1;F1;F1;F1;F1;A2_01;A2_13,1,1,1.0,1,0,,0,1.0,0.7946,1.0,1.0,,26.53
+P50,Fuera de alcance,fuera_de_alcance,¿Cuánto cuesta la matrícula del programa de Medicina en Icesi?,No encuentro esa información en el corpus documental.,,F1;F1;F1;F1;F1;F1;A2_07;A2_08,,,,,1,1,,,,,,,20.55

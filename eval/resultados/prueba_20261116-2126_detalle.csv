@@ -1,0 +1,41 @@
+﻿id,categoria,tipo,pregunta,respuesta,fuentes_esperadas,ids_recuperados,hit_at_k,hit_at_3,rr,cita_valida,abstencion,abstencion_correcta,falsa_abstencion,faithfulness,answer_relevancy,context_precision,context_recall,errores_ragas,segundos
+P01,DAMA,en_alcance,¿Cómo define DAMA-DMBOK el gobierno de datos?,"Según DAMA-DMBOK [A2_02], el gobierno de datos se define como ""el ejercicio de autoridad, control y toma de decisiones compartida (planificación, monitoreo y aplicación de normas) sobre la gestión de activos de datos.""",A2_02,B5;D2;D3;D2;D6;B1;A2_02;A2_00,1,0,0.1429,1,0,,0,0.0,0.8618,1.0,1.0,,26.02
+P02,DAMA,en_alcance,¿Cuáles son las metas del gobierno de datos según DAMA?,"Según DAMA, las metas del gobierno de datos son:
+
+- Permitir a la organización gestionar sus datos como un activo [A2_02].
+- Definir, aprobar, comunicar y implementar principios, políticas, procedimientos, métricas, herramientas y responsabilidades para la gestión de datos [A2_02].
+- Monitorear y guiar la cumplimiento de políticas, el uso de datos y las actividades de gestión [A2_02].",A2_02,D2;D2;B1;B1;D2;D2;A2_02;A2_12,1,0,0.1429,1,0,,0,1.0,0.9309,0.95,1.0,,25.91
+P03,DAMA,en_alcance,¿Qué actividades comprende la implementación del gobierno de datos en DAMA?,"La implementación del gobierno de datos en DAMA-DMBOK2 incluye las siguientes actividades:
+
+- Sponsor Data Standards and Procedures (Patrocinio de estándares y procedimientos de datos)
+- Develop a Business Glossary (Desarrollo de un glosario empresarial)
+- Co-ordinate with Architecture Groups (Coordinación con grupos de arquitectura)
+- Sponsor Data Asset Valuation (Patrocinio de la valoración de activos de datos)
+
+Estas actividades forman parte del proceso de Implementación de Gobierno de Datos (Implement Data Governance) en el marco de DAMA-DMBOK2 [A2_02].",A2_02,D2;D2;D2;B1;D2;B1;A2_02;A2_00,1,0,0.1429,1,0,,0,1.0,0.8198,0.9167,1.0,,27.49
+P04,DAMA,en_alcance,¿Qué entregables produce el área de gobierno de datos según DAMA?,"Según DAMA-DMBOK2, el área de gobierno de datos produce los siguientes entregables:
+
+- Estrategia de gobierno de datos
+- Estrategia de datos
+- Mapa de ruta de gobierno y implementación de datos
+- Principios de datos, políticas de gobierno de datos, procesos
+- Marco operativo
+- Mapa de ruta y estrategia de implementación
+- Plan de operaciones
+- Glosario de negocios
+- Encuesta de satisfacción
+- Tabla de scorecard de gobierno de datos
+- Sitio web de gobierno de datos
+- Plan de comunicación
+
+Estos entregables se encuentran en el fragmento [A2_02] de DAMA-DMBOK2.",A2_02,A2_10;D2;A2_02;D2;D2;D2;D2;B1,1,1,0.3333,1,0,,0,0.8462,0.8301,0.8333,1.0,,28.41
+P05,DAMA,en_alcance,¿Qué métricas propone DAMA para medir el gobierno de datos?,"Según el fragmento [A2_14] de DAMA-DMBOK2, DAMA propone las siguientes métricas para medir el gobierno de datos:
+
+- DMMA Local and Total Ratings: Evalúa la madurez local y total de la gestión de datos.
+- Resource Utilization: Mide el uso de recursos.
+- Risk Exposure: Evalúa el nivel de exposición a riesgos.
+- Spend Management: Gestiona el gasto.
+- Inputs to DMMA: Incluye los elementos de entrada para la evaluación de la madurez.
+- Rate of Change: Mide la tasa de cambio en la gestión de datos.
+
+Estas métricas se utilizan para evaluar la madurez de la gestión de datos y su implementación efectiva en una organización.",A2_02,D2;D2;B1;D2;D2;D3;A2_00;A2_14,0,0,0.0,1,0,,0,1.0,0.8674,0.5,1.0,,28.9

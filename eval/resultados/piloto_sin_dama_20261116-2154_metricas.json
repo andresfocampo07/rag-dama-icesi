@@ -1,0 +1,51 @@
+{
+  "etiqueta": "piloto_sin_dama",
+  "fecha": "2026-11-16 21:57",
+  "k": 8,
+  "min_dama": 0,
+  "modelo_llm": "qwen2.5:7b",
+  "modelo_juez": "qwen2.5:7b",
+  "modelo_embeddings": "bge-m3",
+  "tam_fragmento": 1000,
+  "muestra_ragas": 20,
+  "k_precision": 5,
+  "paralelo": 1,
+  "n_preguntas": 6,
+  "n_en_alcance": 5,
+  "n_fuera_alcance": 1,
+  "hit_rate_at_k": 1.0,
+  "hit_rate_at_3": 1.0,
+  "mrr": 1.0,
+  "tasa_citas_validas": 0.8,
+  "falsa_abstencion": 0.0,
+  "abstencion_correcta_fuera_alcance": 1.0,
+  "segundos_promedio_respuesta": 26.2567,
+  "n_evaluadas_ragas": 0,
+  "faithfulness": null,
+  "answer_relevancy": null,
+  "context_precision": null,
+  "context_recall": null,
+  "ragas_fallos": 0,
+  "por_categoria": {
+    "DAMA": {
+      "n": 1,
+      "hit_rate_at_k": 1.0
+    },
+    "DANE": {
+      "n": 1,
+      "hit_rate_at_k": 1.0
+    },
+    "Icesi": {
+      "n": 1,
+      "hit_rate_at_k": 1.0
+    },
+    "MinTIC": {
+      "n": 1,
+      "hit_rate_at_k": 1.0
+    },
+    "Normativa": {
+      "n": 1,
+      "hit_rate_at_k": 1.0
+    }
+  }
+}
